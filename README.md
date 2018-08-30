@@ -1,13 +1,13 @@
-Introduction
+## Introduction
 
 This repository contains the Turkish Translation of the MIUI Weekly ROM Releases for miui.com
 
-MIUI Turkish Translator and graphical design:
-# Celaleddin MADENCAN
+#### MIUI Turkish Translator and Graphical Design:
+### Celaleddin MADENCAN
 contact: cmadencan@gmail.com
 
 
-## Current improvements
+#### Current improvements
 
 * Daily updates are made.
 * All Xiaomi models added
@@ -18,7 +18,7 @@ contact: cmadencan@gmail.com
 
 ## Changes will be added
 
-* This is MIUI 9.3 Turkish Language Project supported all of models...
+* This is MIUI 10 Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
