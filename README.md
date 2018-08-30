@@ -1,18 +1,10 @@
-MIUI V10 Turkish Translation
+Introduction
 
+This repository contains the Turkish Translation of the MIUI Weekly ROM Releases for miui.com
 
-
-## Introduction
-
-This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from [xiaomi.eu](http://xiaomi.eu/community/forums/103/).
-
-Main Translator:
+MIUI Turkish Translator and graphical design:
 # Celaleddin MADENCAN
 contact: cmadencan@gmail.com
-
-## Reporting issues
-
-Use the [Github Issue tracker](https://github.com/suat074/MA-XML-10-TURKISH/issues) to report a bug or the following [forum thread](http://xiaomi.eu/community/)
 
 
 ## Current improvements
